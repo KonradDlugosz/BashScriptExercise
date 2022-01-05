@@ -1,6 +1,4 @@
 #!/bin/bash
-$(mkdir Processes)
-echo $(ps) >> Processes/$(date + "%D")
-
+echo $(ps) >> Processes/$(date "+%m-%d-%y-%H-%M-%p")
 
 
