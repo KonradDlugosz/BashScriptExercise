@@ -52,4 +52,4 @@ In order to run this task every 30 seconds:
    * * * * * sleep 30; /bin/sh /home/[path of exercise3.sh]
    ```
 
-3. Save and exit. This will run script `exercise3.sh`
+3. Save and exit. This will run script `exercise3.sh` every 30 seconds
