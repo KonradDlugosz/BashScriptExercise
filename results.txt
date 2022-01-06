@@ -13,3 +13,13 @@ Operations of  110 and  20
 	Substraction   :  90
 	Multiplication :  2200
 	Division       :  5
+Operations of  10 and  2
+	Addition       :  12
+	Substraction   :  8
+	Multiplication :  20
+	Division       :  5
+Operations of  1 and  10
+	Addition       :  11
+	Substraction   :  -9
+	Multiplication :  10
+	Division       :  0
